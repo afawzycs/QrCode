@@ -16,6 +16,7 @@ body {
 
 .container {
   width: 320px;
+  height: 499px;
   background-color: hsl(0, 0%, 100%);
   border-radius: 15px;
   padding: 15px;
